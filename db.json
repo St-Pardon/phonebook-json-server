@@ -2,9 +2,9 @@
   "contacts": [
     {
       "id": 1,
-      "img":"https://images.unsplash.com/photo-1542353436-312f0e1f67ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=942&q=80",
-      "fileAs": "John Akanimoh",
-      "firstName": "Akanimoh",
+      "img": "https://images.unsplash.com/photo-1542353436-312f0e1f67ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=942&q=80",
+      "fileAs": "John Michael",
+      "firstName": "Michael",
       "lastName": "John",
       "middlename": "",
       "namePrefix": "",
@@ -17,7 +17,7 @@
         "label": "Mobile"
       },
       "email": {
-       " address": "",
+        " address": "",
         "label": ""
       },
       "address": {
@@ -37,13 +37,13 @@
         "department": "",
         "title": ""
       },
-      "website":""
+      "website": ""
     },
     {
       "id": 2,
       "img": "",
-      "fileAs": "Issac Michael",
-      "firstName": "Michael",
+      "fileAs": "Issac John",
+      "firstName": "John",
       "lastName": "Issac",
       "middlename": "",
       "namePrefix": "",
@@ -77,7 +77,86 @@
         "title": ""
       },
       "website": ""
+    },
+    {
+      "img": "",
+      "namePrefix": "",
+      "firstName": "Enaho",
+      "middleName": "Tracy",
+      "lastName": "Murphy",
+      "nameSuffix": "",
+      "phoneticFirstName": "",
+      "phoneticMiddleName": "",
+      "phoneticLastName": "",
+      "nickname": "",
+      "fileAs": "",
+      "company": {
+        "companyName": "PingPong",
+        "department": "Management",
+        "title": "CEO"
+      },
+      "phone": {
+        "phoneNo": "0904473657e42",
+        "label": "Mobile"
+      },
+      "email": {
+        "address": "enahomurphy@yahoo.com",
+        "label": "Home"
+      },
+      "address": {
+        "name": "",
+        "label": "Home"
+      },
+      "website": "",
+      "date": {
+        "title": "",
+        "label": "Birthday"
+      },
+      "relationship": {
+        "title": "",
+        "label": "Assistant"
+      },
+      "id": 3
+    },
+    {
+      "img": "",
+      "namePrefix": "",
+      "firstName": "Adam",
+      "middleName": "Kyle",
+      "lastName": "Banling",
+      "nameSuffix": "",
+      "phoneticFirstName": "",
+      "phoneticMiddleName": "",
+      "phoneticLastName": "",
+      "nickname": "Benzo",
+      "fileAs": "",
+      "company": {
+        "companyName": "ABC studio",
+        "department": "Film making",
+        "title": "Actor"
+      },
+      "phone": {
+        "phoneNo": "555 2579 9537",
+        "label": "Main"
+      },
+      "email": {
+        "address": "Adambenling@abc.com",
+        "label": "Home"
+      },
+      "address": {
+        "name": "Boulder, Colorado",
+        "label": "Home"
+      },
+      "website": "adambenling.com",
+      "date": {
+        "title": "2^ May 1994",
+        "label": "Birthday"
+      },
+      "relationship": {
+        "title": "Family",
+        "label": "Brother"
+      },
+      "id": 4
     }
   ]
-  
 }
