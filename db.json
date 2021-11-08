@@ -12,6 +12,7 @@
       "phoneticFirstName": "",
       "phoneticLastName": "",
       "phoneticMiddlename": "",
+      "nickname": "interllectual",
       "phone": {
         "phoneNo": "0812 383 7772",
         "label": "Mobile"
@@ -51,6 +52,7 @@
       "phoneticFirstName": "",
       "phoneticLastName": "",
       "phoneticMiddlename": "",
+      "nickname": "",
       "phone": {
         "phoneNo": "0803 248 8965",
         "label": "Mobile"
@@ -81,14 +83,14 @@
     {
       "img": "",
       "namePrefix": "",
-      "firstName": "Enaho",
-      "middleName": "Tracy",
+      "firstName": "Stephen",
+      "middleName": "Eddie",
       "lastName": "Murphy",
       "nameSuffix": "",
       "phoneticFirstName": "",
       "phoneticMiddleName": "",
       "phoneticLastName": "",
-      "nickname": "",
+      "nickname": "interllectual",
       "fileAs": "",
       "company": {
         "companyName": "PingPong",
@@ -100,7 +102,7 @@
         "label": "Mobile"
       },
       "email": {
-        "address": "enahomurphy@yahoo.com",
+        "address": "stevemurphy@yahoo.com",
         "label": "Home"
       },
       "address": {
