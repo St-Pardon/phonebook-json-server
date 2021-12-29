@@ -177,5 +177,19 @@
         "name": "Wonder Woman",
         "alterEgo": "Princess Diana"
       }
+    ],
+    "bosses": [
+      {
+        "id": 1,
+        "name": "Joker"
+      },
+      {
+        "id": 2,
+        "name": "Lex"
+      },
+      {
+        "id": 3,
+        "name": "Tigress"
+      }
     ]
 }
